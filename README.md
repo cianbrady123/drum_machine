@@ -5,4 +5,4 @@ Including a Kick, Snare, Highhat and Tom, this drummachine fits all your drummin
 
 ![App screenshot](drum.png)
 
-With tightly designed PCBs we managed to make a sound that now digital computer could ever.
+With tightly designed PCBs we managed to make a sound that no digital computer could ever.
